@@ -62,12 +62,6 @@ y = pd.concat([y_test, y_train], axis=0)
 # get the name of the columns
 preproc_cols = X_train.columns
 
-# # Expected values
-# path = os.path.join('expected_values.pkl')
-# with open(path, 'rb') as file:
-#     expected_values = joblib.load(file)
-
-expected_values = joblib.load('expected_values.pkl')
 ###############################################################
 # instantiate Flask object
 app = Flask(__name__)
