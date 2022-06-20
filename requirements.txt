@@ -5,3 +5,4 @@ scikit_learn==1.1.1
 shap==0.40.0
 streamlit
 gunicorn
+Jinja2
