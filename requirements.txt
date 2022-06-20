@@ -6,3 +6,4 @@ shap==0.40.0
 streamlit
 gunicorn
 Jinja2
+lightgbm
