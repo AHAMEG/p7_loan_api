@@ -1,5 +1,5 @@
-# p7_Loan_Application
-Déploiement d'un dashboard interrogeant un modèle de scoring (OpenClassrooms | Data Scientist | Projet 7)
+# Loan_app
+Déploiement d'une API interrogeant un modèle de scoring (OpenClassrooms | Data Scientist | Projet 7)
 
 Dashboard Streamlit de scoring déployé sur serveurs Streamlit
 
