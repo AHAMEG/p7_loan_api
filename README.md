@@ -13,3 +13,6 @@ il permet d'afficher certaines données concernant le client selectionné dans l
 * Données du client
 * Graphe situant le client par rapport aux autres clients et aux clients similaires 
 * Importance globale et locale des paramètres dans la décision du modèle 
+
+URL API : Scoring client ID = 474  ==> https://loan-heroku.herokuapp.com/app/scoring_cust/?SK_ID_CURR=474
+
