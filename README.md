@@ -16,3 +16,4 @@ il permet d'afficher certaines données concernant le client selectionné dans l
 
 URL API : Scoring client ID = 474  ==> https://loan-heroku.herokuapp.com/app/scoring_cust/?SK_ID_CURR=474
 
+Ce projet a été **soutenu** et **validé** le 27 juin 2022
